@@ -1227,5 +1227,3 @@ print(all_results)
 # Next steps for the data analysis:
 # - Exclude *'last_evaluation'* from the data set. This variable can be subjective or outdated
 # - K-means modelling can reveal clusters within the data that identify certain employee groups that are more probable to leave the company
-
-# **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
